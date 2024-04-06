@@ -1,0 +1,18 @@
+h1 {
+    visibility: hidden;
+    color:black;
+    background-color: aqua;
+}
+
+.heading {
+    color:black;
+    background-color: aqua;
+}
+
+body{
+    background-color: bisque;
+}
+
+button {
+    background-color: aquamarine;
+}

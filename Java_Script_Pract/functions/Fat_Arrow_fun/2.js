@@ -26,5 +26,4 @@ const countvowels1 = (str) => {
     } 
     console.log(count);
 }
-
 countvowels1("aeiou");
