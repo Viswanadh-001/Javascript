@@ -7,4 +7,4 @@ do{
     }
     i++;
 }while (i <= 100);
-console.log(sum);
+console.log(sum); 
